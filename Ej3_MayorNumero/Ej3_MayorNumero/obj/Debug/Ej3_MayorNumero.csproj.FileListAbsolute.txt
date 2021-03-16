@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\bin\Debug\Ej3_MayorNumero.exe.config
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\bin\Debug\Ej3_MayorNumero.exe
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\bin\Debug\Ej3_MayorNumero.pdb
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.Form1.resources
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.exe
+C:\Users\jared\source\repos\Ej3_MayorNumero\Ej3_MayorNumero\obj\Debug\Ej3_MayorNumero.pdb
